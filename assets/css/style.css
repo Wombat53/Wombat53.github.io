@@ -1,0 +1,19 @@
+body {
+  background-color: #f0f0f0;
+  color: #6b2c2c;
+  font-family: Georgia, serif;
+  padding: 2rem;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  color: #5a1f1f;
+}
+
+a {
+  color: #8b0000;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
